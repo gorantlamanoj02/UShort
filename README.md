@@ -1,6 +1,13 @@
 # UShort
 This is a URL - Shortener which I developed using HTML,CSS and JAVASCRIPT Technologies.
 
+
+To Run this, 
+1. Download the zip file and extract them out of the folder.
+2. Open the folder through VScode.
+3. Use the live server extension and run through it.
+
+
 ![image](https://github.com/gorantlamanoj02/UShort/assets/74758820/113cccc4-8720-450a-96dd-fda9eb42fc11)
 ![image](https://github.com/gorantlamanoj02/UShort/assets/74758820/da9ec1b0-0352-4c29-a55f-16a8fc60af0e)
 So, the website actually looks like this.
